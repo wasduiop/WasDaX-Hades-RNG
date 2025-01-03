@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wasduiop/WasDaX-Hades-RNG/refs/heads/main/source"))()
